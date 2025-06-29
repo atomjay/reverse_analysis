@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'projects/04_license_key/license_key'
+relocations:     []
+...
